@@ -16,6 +16,11 @@ class ViewController: UIViewController {
         
         print("Add project to git hub from Xcode");
         
+        let x = 5
+        let y = 4
+        //Math sum
+        print(x*y+x*y);
+        //Push
     }
 
     override func didReceiveMemoryWarning() {
